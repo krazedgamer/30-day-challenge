@@ -1,41 +1,7 @@
 # 30-day-challenge
 im super confused on what to do but i will understand this
 
-#apDiv1 {
-	position: absolute;
-	left: 5px;
-	top: 6px;
-	width: 1432px;
-	height: 104px;
-	z-index: 1;
-}
-#apDiv2 {
-	position: absolute;
-	left: 5px;
-	top: 705px;
-	width: 1428px;
-	height: 24px;
-	z-index: 2;
-}
-#apDiv3 {
-	position: absolute;
-	left: 6px;
-	top: 143px;
-	width: 887px;
-	height: 542px;
-	z-index: 3;
-	color: #0CC;
-	font-size: 18px;
-	padding: 10px;
-}
-#apDiv4 {
-	position: absolute;
-	left: 919px;
-	top: 146px;
-	width: 472px;
-	height: 561px;
-	z-index: 4;
-}
+
 </style>
 </head>
 
