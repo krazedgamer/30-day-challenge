@@ -1,13 +1,13 @@
 # 30-day-challenge
 im super confused on what to do but i will understand this
 
--#apDiv1 {
--	position: absolute;
--	left: 5px;
--	top: 6px;
--	width: 1432px;
--	height: 104px;
--	z-index: 1;
+#apDiv1 {
+	position: absolute;
+	left: 5px;
+	top: 6px;
+	width: 1432px;
+	height: 104px;
+	z-index: 1;
 }
 #apDiv2 {
 	position: absolute;
