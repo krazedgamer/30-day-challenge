@@ -1,12 +1,9 @@
 # 30-day-challenge
 im super confused on what to do but i will understand this
 
-
-</style>
-</head>
-
+<html>
 <body>
-<div id="apDiv1"><img src="banner.jpg" width="1428" height="120" usemap="#Map" border="0" />
+<div id="apDiv1"><img src="logo.png" width="1428" height="120" usemap="#Map" border="0" />
   <map name="Map" id="Map">
     <area shape="rect" coords="879,97,956,121" href="faqs.html" target="_top" alt="Faqs" />
     <area shape="rect" coords="645,99,847,119" href="hero_history.html" target="_top" alt="Hero History" />
@@ -33,11 +30,11 @@ im super confused on what to do but i will understand this
 </map>
 </div>
 <div id="apDiv3">
-  <p>This is Zero's official web page. Curretly protecting the fair city of Chicago, Illinois for the past 3 years, no one knows where this vigilantly came from and how he was brought to this world. Some even theorize hes not even human. Zero preforms an average of 15 heroic feats a week. His most recent one was stopping a gang of handsome Jacks minions and saving citizens caught in the cross fire.</p>
-  <p><img src="block_quote.jpg" hspace="10" vspace="10" align="right" width="219" height="193" /><br />
-    Standing at 6&rsquo;4 and weighing only 120 pounds, he&rsquo;s not the  strongest super hero but with his katana, high-tech sniper rifle, and his ability  to go invisible really gives him an edge on the criminals. His ability to go  invisible allows him to sneak up on any unsuspecting criminal and knock them  out. </p>
+  <p>this is just going to be a quick little website im going to make for the sake of this challenge. Also to get more familier with this new piece of equipment that I will try to master.</p>
+  <p><img src="logo.png" hspace="10" vspace="10" align="right" width="219" height="193" /><br />
+ </p>
   <p><br />
-    Zero is not known to the public for the simple reason no one  knows when he&rsquo;s going to strike he strikes with the wind and vanishes with it  also. We only have around five photos of him. There is no way to contact this  hero many have tried but all have failed. This elusive super hero will remain under the radar for a long time always watching and protecting this fair city of Chicago.</p>
+    Zero is not known to the public for the simple reason no one knows when he&rsquo;s going to strike he strikes with the wind and vanishes with it  also. We only have around five photos of him. There is no way to contact this  hero many have tried but all have failed. This elusive super hero will remain under the radar for a long time always watching and protecting this fair city of Chicago.</p>
 </div>
 <div id="apDiv4"><img src="home_image.jpg" width="470" height="560" /></div>
 </body>
