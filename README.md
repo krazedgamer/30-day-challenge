@@ -20,7 +20,7 @@ im super confused on what to do but i will understand this
     <area shape="rect" coords="434,5,569,28" href="hero_history.html" target="_top" alt="Hero History" />
     <area shape="rect" coords="590,5,643,29" href="faqs.html" target="_top" alt="Faqs" />
   </map>
-<img src="footer.jpg" width="1422" height="33" usemap="#Map3" border="0" />
+<img src="githubfooter.jpg" width="1422" height="33" usemap="#Map3" border="0" />
 <map name="Map3" id="Map3">
   <area shape="rect" coords="4,6,95,29" href="index.html" target="_top" alt="Home" />
   <area shape="rect" coords="126,6,363,28" href="arch_enemies.html" target="_top" alt="Arch Enemies " />
@@ -30,12 +30,12 @@ im super confused on what to do but i will understand this
 </map>
 </div>
 <div id="apDiv3">
-  <p>this is just going to be a quick little website im going to make for the sake of this challenge. Also to get more familier with this new piece of equipment that I will try to master.</p>
+  <p>this is just going to be a quick little website im going to make for the sake of this challenge. Also to get more familier with this new piece of equipment that I will try to master. Every day little by little you can learn out this site like i have and its not so complicated once you gett used to it.</p>
   <p><img src="logo.png" hspace="10" vspace="10" align="right" width="219" height="193" /><br />
  </p>
   <p><br />
     Zero is not known to the public for the simple reason no one knows when he&rsquo;s going to strike he strikes with the wind and vanishes with it  also. We only have around five photos of him. There is no way to contact this  hero many have tried but all have failed. This elusive super hero will remain under the radar for a long time always watching and protecting this fair city of Chicago.</p>
 </div>
-<div id="apDiv4"><img src="home_image.jpg" width="470" height="560" /></div>
+<div id="apDiv4"><img src="home_image.jpg" width="600" height="560" /></div>
 </body>
 </html>
