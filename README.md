@@ -14,7 +14,7 @@ im super confused on what to do but i will understand this
 </div>
 <div id="apDiv2">
   <map name="Map2" id="Map2">
-    <area shape="rect" coords="0,5,67,31" href="index.html" target="_top" alt="Home Page" />
+    <area shape="rect" coords="0,5,67,31" href="index.html" target="_right" alt="Home Page" />
     <area shape="rect" coords="89,5,244,27" href="arch_enemies.html" target="_top" alt="Arch Enemies" />
     <area shape="rect" coords="264,4,411,26" href="famous_feats.html" target="_top" alt="Famous Feats" />
     <area shape="rect" coords="434,5,569,28" href="hero_history.html" target="_top" alt="Hero History" />
@@ -33,8 +33,8 @@ im super confused on what to do but i will understand this
   <p>this is just going to be a quick little website im going to make for the sake of this challenge. Also to get more familier with this new piece of equipment that I will try to master. Every day little by little you can learn out this site like i have and its not so complicated once you gett used to it.</p>
   <p><img src="logo.png" hspace="10" vspace="10" align="right" width="219" height="193" /><br />
  </p>
-  <p><br />
-    Zero is not known to the public for the simple reason no one knows when he&rsquo;s going to strike he strikes with the wind and vanishes with it  also. We only have around five photos of him. There is no way to contact this  hero many have tried but all have failed. This elusive super hero will remain under the radar for a long time always watching and protecting this fair city of Chicago.</p>
+  <p>so where to begin about this website that lets you look at other peoples code and improve on it.<br/>
+   </p>
 </div>
 <div id="apDiv4"><img src="home_image.jpg" width="600" height="560" /></div>
 </body>
