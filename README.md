@@ -37,6 +37,5 @@ im super confused on what to do but i will understand this
   </tr>
  </table>
 </div>
-<div id="apDiv4"><img src="home_image.jpg" width="600" height="560" /></div>
 </body>
 </html>
