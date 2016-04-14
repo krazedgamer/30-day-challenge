@@ -32,7 +32,7 @@ im super confused on what to do but i will understand this
 <div id="apDiv3">
 <table width="500" height="250" border="0" cellpadding="5">
   <tr>
-  <td align=laft valign=top><font face=arial size=2>this is just going to be a quick little website im going to make for the sake of this challenge. Also to get more familier with this new piece of equipment that I will try to master. Every day little by little you can learn out this site like i have and its not so complicated once you gett used to it.</td></font>
+  <td align=laft valign=top><font face=arial size=2>This is just going to be a quick little website im going to make for the sake of this challenge. Also to get more familier with this new piece of equipment that I will try to master. Every day little by little you can learn out this site like i have and its not so complicated once you gett used to it.But with HTMl im very limmited in with what i can do since i only know so much and there is a lot more i can learn like a lot more i can learn.</td></font>
   <td align=left valign=top><font face=arial size=2>  so where to begin about this website that lets you look at other peoples code and improve on it. like this code it is missing pictures yet the code is there for it and im still confuesed on why it isnt working it should because the code is right and i have the pictures. It isn't that hard to understand hot to fix it i dont think i'll just have to figure it out some way.At this point im just taking it day by day and so far its been working.</td></table>
   </tr>
  </table>
