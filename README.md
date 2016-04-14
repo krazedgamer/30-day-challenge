@@ -3,7 +3,7 @@ im super confused on what to do but i will understand this
 
 <html>
 <body>
-<div id="apDiv1"><img src="logo.png" width="1428" height="120" usemap="#Map" border="0" />
+<div id="apDiv1">
   <map name="Map" id="Map">
     <area shape="rect" coords="879,97,956,121" href="faqs.html" target="_top" alt="Faqs" />
     <area shape="rect" coords="645,99,847,119" href="hero_history.html" target="_top" alt="Hero History" />
