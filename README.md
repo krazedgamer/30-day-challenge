@@ -3,7 +3,7 @@ im super confused on what to do but i will understand this
 
 <html>
 <body>
-<div id="apDiv1">
+<div id="apDiv1"><img src="githublogo.JPG" width="1428" height="120" usemap="#Map" border="0" />
   <map name="Map" id="Map">
     <area shape="rect" coords="879,97,956,121" href="faqs.html" target="_top" alt="Faqs" />
     <area shape="rect" coords="645,99,847,119" href="hero_history.html" target="_top" alt="Hero History" />
@@ -20,7 +20,6 @@ im super confused on what to do but i will understand this
     <area shape="rect" coords="434,5,569,28" href="hero_history.html" target="_top" alt="Hero History" />
     <area shape="rect" coords="590,5,643,29" href="faqs.html" target="_top" alt="Faqs" />
   </map>
-<img src="githubfooter.jpg" width="1422" height="33" usemap="#Map3" border="0" />
 <map name="Map3" id="Map3">
   <area shape="rect" coords="4,6,95,29" href="index.html" target="_top" alt="Home" />
   <area shape="rect" coords="126,6,363,28" href="arch_enemies.html" target="_top" alt="Arch Enemies " />
@@ -32,10 +31,11 @@ im super confused on what to do but i will understand this
 <div id="apDiv3">
 <table width="500" height="250" border="0" cellpadding="5">
   <tr>
-  <td align=laft valign=top><font face=arial size=2>This is just going to be a quick little website im going to make for the sake of this challenge. Also to get more familier with this new piece of equipment that I will try to master. Every day little by little you can learn out this site like i have and its not so complicated once you gett used to it.But with HTMl im very limmited in with what i can do since i only know so much and there is a lot more i can learn like a lot more i can learn.</td></font>
-  <td align=left valign=top><font face=arial size=2>  so where to begin about this website that lets you look at other peoples code and improve on it. like this code it is missing pictures yet the code is there for it and im still confuesed on why it isnt working it should because the code is right and i have the pictures. It isn't that hard to understand hot to fix it i dont think i'll just have to figure it out some way.At this point im just taking it day by day and so far its been working.</td></table>
+  <td align=laft valign=top><font face=arial size=2>This is just going to be a quick little website im going to make for the sake of this challenge. Also to get more familier with this new piece of equipment that I will try to master. Every day little by little you can learn about this site like I have and its not so complicated once you get used to it.But with HTMl I'm very limmited in with what I can do since I only know so much and there is a lot more I can learn like a lot more I can learn.</td></font>
+  <td align=left valign=top><font face=arial size=2>So where to begin about this website that lets you look at other peoples code and improve on it. Like this code it is missing pictures yet the code is there for it and I'm still confuesed on why it isnt working it should because the code is right and I have the pictures saved so they should show. At this point I'm just taking it day by day and so far its been working.</td></table>
   </tr>
  </table>
 </div>
+<div id="apDiv4"><img src="home_image.jpg" width="1422" height="33" /></div>
 </body>
 </html>
