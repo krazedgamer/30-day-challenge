@@ -3,7 +3,7 @@ im super confused on what to do but i will understand this
 
 <html>
 <body>
-<div id="apDiv1"><img src="githublogo.JPG" width="1428" height="120" usemap="#Map" border="0" />
+<div id="apDiv1"><img src="https://cloud.githubusercontent.com/assets/18333467/14567656/ca2f66b0-02fa-11e6-87f2-4ff97acab178.jpg" width="1428" height="120" usemap="#Map" border="0" />
   <map name="Map" id="Map">
     <area shape="rect" coords="879,97,956,121" href="faqs.html" target="_top" alt="Faqs" />
     <area shape="rect" coords="645,99,847,119" href="hero_history.html" target="_top" alt="Hero History" />
